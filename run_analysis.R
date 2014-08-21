@@ -63,5 +63,5 @@ remove(auxmatrix,i)
 
 ## Step 6
 ## Writes a text file "tidy_data.txt" 
-## in the same directory where the file "UCI HAR Dataset" is stored
+## in the same directory where the file "UCI HAR Dataset" is stored 
 write.table(tidydata,file="./tidy_data.txt",row.names=FALSE,col.names=FALSE)
