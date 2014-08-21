@@ -10,7 +10,7 @@ The file "tidy_data.txt" ( 180 rows and 68 columns ) contains the following info
 
 NOTE: Columns 3-68 are normalized and bounded within [-1,1].  
 
-* Column 1. subject: there are 30 subjects and each one is characterize by a number between 1 and 30.
+* Column 1. subject: there are 30 subjects and each one is characterized by a number between 1 and 30.
 * Column 2. activity: there are 6 activities - sitting, standing, laying, walking, walking downstairs and walking upstairs.
 * Column 3. tbodyaccmeanx: time body acceleration signal mean axis x.
 * Column 4. tbodyaccmeany: time body acceleration signal mean axis y.
