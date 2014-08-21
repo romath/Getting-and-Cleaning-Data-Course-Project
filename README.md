@@ -5,7 +5,7 @@ The **raw data** is given by the following zip file:
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip),  
 which was obtained from the following web site:  
 [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones),  
-where the basic information about the raw data is explain.
+where the basic information about the raw data is explained.
 
 The **tidy data** is given by the text file "tidy_data.txt" which is produced by the R program "run_analysis.R" and the **Code Book** for the tidy data is given in the file "CodeBook.md". This three files are included on this github repository.
 
