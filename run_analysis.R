@@ -22,6 +22,7 @@ remove(testsubject,testactivity,testdata,testmerge,trainsubject,trainactivity,tr
 
 ## Step 2
 ## Extracts only the measurements on the mean and standard deviation for each measurement. 
+## note: mean() are the only real mean related with each measurement / meanFreq() is a weighted average.
 features<-read.table("./UCI HAR Dataset/features.txt")
 index<-grep("mean\\(|std\\(", features[, 2])   ## features names with mean and std 
 mergedata<-mergedata[,c(1,2,index+2)]          ## subset mergedata with mean and std
