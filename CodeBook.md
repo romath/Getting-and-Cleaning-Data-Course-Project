@@ -1,7 +1,7 @@
 Getting and Cleaning Data / Course Project
 ===========================================
 -------------------------------------------
-### Code Book for :tidy_data.txt:
+### Code Book for "tidy_data.txt"
 
 The file "tidy_data.txt" was created by running the R program "run_analysis.R".  
 Information about the raw data and the R program "run_analysis.R" can be found in the file :README.md:.  
